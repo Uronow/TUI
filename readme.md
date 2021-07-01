@@ -6,7 +6,7 @@
 local lib = loadstring(game:HttpGet("http://jynax.ml/TUI"))()
 
 
-lib:createWindow("Frame Name",Alt)
+lib:createWindow("Frame Name",--alt name not working i update that ):)
 
 ```
 ## Create tab frame
