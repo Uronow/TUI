@@ -83,3 +83,10 @@ end)
 ```lua
 --Slider not working
 ```
+
+## To do list
+
+- Fix bugs (Slider,window etc)
+- Add textbox
+- add textlabel
+- add dropdown
