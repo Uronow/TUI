@@ -79,7 +79,7 @@ end)
 
 ## Create Slider
 
-![alt text](https://www.birwebdesign.com/wp-content/uploads/2020/11/windows10-mavi-ekran-hatasi-bsod-neden-olur-780x405.jpg)
+![alt text](https://i.hizliresim.com/573h5fz.)
 ```lua
 --Slider not working
 ```
