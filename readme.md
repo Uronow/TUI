@@ -79,7 +79,7 @@ end)
 
 ## Create Slider
 
-![alt text](https://i.hizliresim.com/573h5fz.)
+![alt text](https://www.parallels.com/blogs/app/uploads/2015/03/1.png)
 ```lua
 --Slider not working
 ```
