@@ -3,7 +3,7 @@
 ![alt text](https://i.hizliresim.com/ovhk03o.jpg)
 
 ```lua
-local lib = loadstring(game:HttpGet("http://jynax.ml/TUI"))()
+local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
 lib:createWindow("Frame Name",--alt name not working i update that ):)
@@ -14,7 +14,7 @@ lib:createWindow("Frame Name",--alt name not working i update that ):)
 ![alt text](https://i.hizliresim.com/tnfqrh0.jpg)
 
 ```lua
-local lib = loadstring(game:HttpGet("http://jynax.ml/TUI"))()
+local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
 lib:createWindow("Frame Name",Alt)
@@ -27,7 +27,7 @@ lib:newfram("Tab frame name","Tab button name")
 ![alt text](https://i.hizliresim.com/fncoidp.jpg)
 
 ```lua
-local lib = loadstring(game:HttpGet("http://jynax.ml/TUI"))()
+local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
 lib:createWindow("Frame Name",Alt)
@@ -39,7 +39,7 @@ lib:newfram("Tab frame name","Tab button name")
 
 ![alt text](https://i.hizliresim.com/rsv4ex7.jpg)
 ```lua
-local lib = loadstring(game:HttpGet("http://jynax.ml/TUI"))()
+local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
 lib:createWindow("Frame Name",Alt)
@@ -62,7 +62,7 @@ end)
 
 ![alt text](https://i.hizliresim.com/4lzsjwb.jpg)
 ```lua
-local lib = loadstring(game:HttpGet("http://jynax.ml/TUI"))()
+local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
 lib:createWindow("Frame Name",Alt)
