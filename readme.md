@@ -1,4 +1,4 @@
-# Tui Documentation
+# Tui Documentation (NOT WORKING NEED UPDATE :CRI:)
 ## Create main window
 ![alt text](https://i.hizliresim.com/ovhk03o.jpg)
 
