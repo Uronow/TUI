@@ -1,4 +1,4 @@
-# Tui Documentation (NOT WORKING NEED UPDATE :CRI:)
+# Tui Documentation (Working 29/08/2021)
 ## Create main window
 ![alt text](https://i.hizliresim.com/ovhk03o.jpg)
 
@@ -6,7 +6,7 @@
 local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
-lib:createWindow("Frame Name",--alt name not working i update that ):)
+lib:createWindow("Frame Name","Alt name")
 
 ```
 ## Create tab frame
@@ -17,7 +17,7 @@ lib:createWindow("Frame Name",--alt name not working i update that ):)
 local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
-lib:createWindow("Frame Name",Alt)
+lib:createWindow("Frame Name","Alt name")
 
 lib:newfram("Tab frame name","Tab button name")
 
@@ -30,7 +30,7 @@ lib:newfram("Tab frame name","Tab button name")
 local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
-lib:createWindow("Frame Name",Alt)
+lib:createWindow("Frame Name","Alt name")
 
 lib:newfram("Tab frame name","Tab button name")
 ```
@@ -42,7 +42,7 @@ lib:newfram("Tab frame name","Tab button name")
 local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
 
-lib:createWindow("Frame Name",Alt)
+lib:createWindow("Frame Name","Alt name")
 
 lib:newfram("Tab frame name","Tab button name")
 
@@ -64,8 +64,7 @@ end)
 ```lua
 local lib = loadstring(game:HttpGet("https://tuaxascript.com/codesv2/TUI.lua"))()
 
-
-lib:createWindow("Frame Name",Alt)
+lib:createWindow("Frame Name","Alt name")
 
 lib:newfram("Tab frame name","Tab button name")
 
